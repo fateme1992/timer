@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+main{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: antiquewhite;
+    row-gap: 30px;
+}
+
+.d-flex{
+    display: flex;
+}
+
